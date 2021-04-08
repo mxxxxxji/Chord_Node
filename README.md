@@ -36,7 +36,7 @@ Program Quit: q
 * (q)uit : Quit the program
 
   
-</br>  
+  
 ## 3. System Sequence Diagram  
 ### [File Add]  
 ![image](https://user-images.githubusercontent.com/52437364/114031944-d0d4aa00-98b6-11eb-9838-28179fd47685.png)
@@ -46,12 +46,12 @@ Program Quit: q
 ![image](https://user-images.githubusercontent.com/52437364/114032467-4b052e80-98b7-11eb-9850-135b82d81a88.png)
   
 
-</br>  
+  
 ## 4. 프로그램 테스트  
 ![image](https://user-images.githubusercontent.com/52437364/114032880-b7802d80-98b7-11eb-98a0-c75645e844ba.png)
   
 
-</br>  
+  
 ## 5. 성능 평가  
 ![image](https://user-images.githubusercontent.com/52437364/114033616-5f95f680-98b8-11eb-8253-bf36a87794a1.png)
 ![image](https://user-images.githubusercontent.com/52437364/114033741-7b010180-98b8-11eb-824a-276ef8f3a085.png)
