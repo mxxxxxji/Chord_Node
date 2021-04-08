@@ -21,7 +21,7 @@ View Help Msg: h
 Program Quit: q  
   
   
-</br>  
+  
 ## 2. 기능 소개
 * (c)reate: Create the chord network
 * (j)oin : Join the chord network
