@@ -10,16 +10,16 @@ P2P 네트워킹을 위한 소켓 API 기반 Chord Node
 3. Node cmd: location.../ChordNode 192.168.0.1 <Port>
 4. Function Use
 </br>
-Node Join: j - Helper Node IP
-Node Leave: l
-File Add: a - File Name
-File Delete: d - File Name
-File Download: s - File Name
-View Finger: f
-View Info: i
-Toggle Mute Mode: m
-View Help Msg: h
-Program Quit: q
+Node Join: j - Helper Node IP  
+Node Leave: l  
+File Add: a - File Name  
+File Delete: d - File Name  
+File Download: s - File Name  
+View Finger: f  
+View Info: i  
+Toggle Mute Mode: m  
+View Help Msg: h  
+Program Quit: q  
   
   
 ## 2. 기능 소개
