@@ -4,7 +4,7 @@ P2P 네트워킹을 위한 소켓 API 기반 Chord Node
 
 
 
-## 1. 동작과정
+## 1. 동작 과정
 1. Clone the repo: git clone https://github.com/mxxxxxji/Chord_Node.git
 2. Open the 2+ CMD Prompt
 3. Node cmd: location.../ChordNode 192.168.0.1 <Port>
@@ -21,7 +21,7 @@ View Help Msg: h
 Program Quit: q  
   
   
-</br>
+</br>  
 ## 2. 기능 소개
 * (c)reate: Create the chord network
 * (j)oin : Join the chord network
@@ -36,7 +36,7 @@ Program Quit: q
 * (q)uit : Quit the program
 
   
-</br>
+</br>  
 ## 3. System Sequence Diagram  
 ### [File Add]  
 ![image](https://user-images.githubusercontent.com/52437364/114031944-d0d4aa00-98b6-11eb-9838-28179fd47685.png)
