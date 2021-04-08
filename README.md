@@ -1,15 +1,14 @@
 # Chord_Node
-P2P 네트워킹을 위한 소켓 API 기반 Chord Node
+P2P 네트워킹을 위한 소켓 API 기반 Chord Node  
 
 
 
 
 ## 1. 동작과정
-1. Clone the repo: git clone https://github.com/LeeKiJong/P2P_ChordNode.git
+1. Clone the repo: git clone https://github.com/mxxxxxji/Chord_Node.git
 2. Open the 2+ CMD Prompt
 3. Node cmd: location.../ChordNode 192.168.0.1 <Port>
 4. Function Use
-</br>
 Node Join: j - Helper Node IP  
 Node Leave: l  
 File Add: a - File Name  
@@ -35,6 +34,7 @@ Program Quit: q
 * (h)elp : Show the help message
 * (q)uit : Quit the program
 
+  
 ## 3. System Sequence Diagram  
 ### [File Add]  
 ![image](https://user-images.githubusercontent.com/52437364/114031944-d0d4aa00-98b6-11eb-9838-28179fd47685.png)
