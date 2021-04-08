@@ -20,5 +20,11 @@ P2P 네트워킹을 위한 소켓 API 기반 Chord Node 구현
 ### [File Search(File Download)]
 ![image](https://user-images.githubusercontent.com/52437364/114032467-4b052e80-98b7-11eb-9850-135b82d81a88.png)
 
-### 3. 구현결과
+## 3. 구현결과
+### 프로그램 테스트
 ![image](https://user-images.githubusercontent.com/52437364/114032880-b7802d80-98b7-11eb-98a0-c75645e844ba.png)
+### 성능 평가
+![image](https://user-images.githubusercontent.com/52437364/114033616-5f95f680-98b8-11eb-8253-bf36a87794a1.png)
+![image](https://user-images.githubusercontent.com/52437364/114033741-7b010180-98b8-11eb-824a-276ef8f3a085.png)
+![image](https://user-images.githubusercontent.com/52437364/114034152-e519a680-98b8-11eb-98a6-051f818ea949.png)
+![image](https://user-images.githubusercontent.com/52437364/114034271-febaee00-98b8-11eb-835b-a499f2b67f1d.png)
