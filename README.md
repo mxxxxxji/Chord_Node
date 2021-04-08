@@ -13,6 +13,6 @@ P2P 네트워킹을 위한 소켓 API 기반 Chord Node 구현
 * 노드가 비정상적으로 연결 해제할 때 네트워크의 복구 및 가동
 
 ## 2. 시퀀스 다이어 그램  
-* File Add
+### File Add  
 ![image](https://user-images.githubusercontent.com/52437364/114031944-d0d4aa00-98b6-11eb-9838-28179fd47685.png)
 * 
